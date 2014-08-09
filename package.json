@@ -17,7 +17,7 @@
   "licenses": [
     "MIT"
   ],
-  "main": "index.js",
+  "main": "lib/spinlock.js",
   "homepage": "https://github.com/numinos1/spinlock",
   "repository": {
     "type": "git",
