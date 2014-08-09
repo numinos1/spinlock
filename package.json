@@ -1,0 +1,31 @@
+{
+  "name": "spinlock",
+  "version": "0.0.1",
+  "description": "Distributed nodejs polling lock using redis",
+  "keywords": [
+    "spinlock",
+    "lock",
+    "mutex",
+    "exclusion",
+    "redis",
+    "distributed",
+    "sync",
+    "synchronization",
+    "polling"
+  ],
+  "author": "Andrew Bunker <abunker@gmail.com>",
+  "licenses": [
+    "MIT"
+  ],
+  "main": "index.js",
+  "homepage": "https://github.com/numinos1/spinlock",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/numinos1/spinlock.git"
+  },
+  "dependencies": {
+    "redis": "*",
+    "when": "*",
+    "lodash": "*"
+  }
+}
