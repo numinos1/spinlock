@@ -1,6 +1,6 @@
 {
   "name": "spinlock",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Distributed nodejs polling lock using redis",
   "keywords": [
     "spinlock",
@@ -24,7 +24,7 @@
     "url": "https://github.com/numinos1/spinlock.git"
   },
   "dependencies": {
-    "redis": "*",
-    "when": "*"
+    "redis": "0.12.x",
+    "when": "3.4.x"
   }
 }
