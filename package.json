@@ -1,6 +1,6 @@
 {
   "name": "spinlock",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Distributed nodejs polling lock using redis",
   "keywords": [
     "spinlock",
