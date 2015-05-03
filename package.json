@@ -24,7 +24,7 @@
     "url": "https://github.com/numinos1/spinlock.git"
   },
   "dependencies": {
-    "lodash": "^2.4.1",
+    "lodash": "^3.7.0",
     "redis": "^0.12.1",
     "when": "^3.6.4"
   }
